@@ -11,3 +11,7 @@ They wanted to get more traffic to their website by releasing a special edition 
 This magazine aims to provide interesting insights and facts for fans, analysts and teams based on the last 3 years' data.
 
 Using Power BI, I delved into the last 3 years' data to uncover key insights requested for both primary and secondary analysis.
+
+Power BI = https://app.powerbi.com/view?r=eyJrIjoiZWY1MjNkZWItZDk3MS00ZGUxLTg5MTktNDg1NzdiNWNhMDVkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+Linkedin = https://www.linkedin.com/in/mayur-m-937226193/
